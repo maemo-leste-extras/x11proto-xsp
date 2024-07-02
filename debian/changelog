@@ -1,3 +1,9 @@
+x11proto-xsp (1.2-2) unstable; urgency=low
+
+  * Maemo-leste version.
+
+ -- Arno1103 <arno11-n900@outlook.com>  Tue,  2 Jul 2024 14:31:12 +0200
+
 x11proto-xsp (1.2-1) unstable; urgency=low
 
   * Initial upload.
